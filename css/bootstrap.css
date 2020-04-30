@@ -1446,6 +1446,10 @@ img {
     height: auto
 }
 
+.img-responsive {
+    margin: auto;
+}
+
 .img-rounded {
     border-radius: 6px
 }
