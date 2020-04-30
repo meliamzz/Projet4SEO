@@ -1040,3 +1040,8 @@ h4 {
         text-align: center;
     }
 }
+
+.avis {
+    font-size: 1.8em;
+    font-style: italic;
+}

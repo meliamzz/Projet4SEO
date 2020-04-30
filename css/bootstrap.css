@@ -16,6 +16,8 @@ body {
     margin: 0
 }
 
+
+
 article,
 aside,
 details,
@@ -848,6 +850,10 @@ th {
 
 .glyphicon-hand-down:before {
     content: "\e130"
+}
+
+.avis {
+    font-size: 2em;
 }
 
 .glyphicon-circle-arrow-right:before {
