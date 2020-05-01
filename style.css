@@ -1045,3 +1045,7 @@ h4 {
     font-size: 1.8em;
     font-style: italic;
 }
+
+.img-responsive {
+    margin: auto;
+}
