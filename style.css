@@ -1049,3 +1049,26 @@ h4 {
 .img-responsive {
     margin: auto;
 }
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulaire {
+    margin: auto;
+}
+
+.adresse {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.adresse p {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+
